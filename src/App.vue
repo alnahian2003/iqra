@@ -77,7 +77,7 @@ export default {
           <!-- TODO: Implement the audio -->
         </header>
 
-        <article class="p-4 lg:p-8">
+        <article class="p-8 lg:p-8">
           <!-- loader -->
           <div v-if="loading" id="loader" class="my-10 text-center">
             <span class="loader"></span>
