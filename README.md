@@ -1,6 +1,8 @@
-# iqra
+![Al Quran](https://images.unsplash.com/photo-1609599006353-e629aaabfeae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-This template should help get you started developing with Vue 3 in Vite.
+# Iqra - Simple Vue 3 Al Quran Web App
+
+Iqra is a single page simple Al Quran web app. Easy to use, Lightweight and User-friendly, Let's give it a try!
 
 ## Recommended IDE Setup
 
